@@ -45,7 +45,7 @@ except Exception as e:
     print(f'Error: {e}')
 ```
 # Output:
-![image](https://github.com/user-attachments/assets/ebcb173a-ae17-40ba-bc5f-798e5a21e3e0)
+![386504619-f30692d1-3d83-4e56-8e45-01d48033452f](https://github.com/user-attachments/assets/049a2cf0-8a76-47a4-b3b1-f7a920db3959)
 
 # Result:
 Thus, the conversion of live speech to text is executed sucessfully.
